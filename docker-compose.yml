@@ -1,0 +1,11 @@
+version: '3'
+services:
+    bot:
+        container_name: brewery_bot
+        restart: always
+        build: .
+        volumes:
+            - .:/bot_app
+        ports:
+            - 3000:3000
+            
