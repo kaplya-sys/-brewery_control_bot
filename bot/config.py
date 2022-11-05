@@ -1,0 +1,1 @@
+BREWERY_CONTROL_URL = 'http://localhost:5000/'
