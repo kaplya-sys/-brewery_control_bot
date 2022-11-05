@@ -1,1 +1,1 @@
-URL = 'http://localhost:5000/tank'
+BREWERY_CONTROL_URL = 'http://localhost:5000/'
